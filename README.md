@@ -1,4 +1,5 @@
 Projeto de Banco de Dados
+
 Este repositório contém o código SQL de um projeto de banco de dados que gerencia informações relacionadas a usuários, produtos, transações e logs em um contexto de estoque de produtos. Este README fornece uma visão geral do esquema do banco de dados, incluindo suas tabelas, procedimentos armazenados, cursores, gatilhos, inserções de dados de exemplo e algumas transações de teste.
 
 Estrutura do Banco de Dados
